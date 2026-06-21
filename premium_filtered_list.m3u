@@ -1,4 +1,313 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 1 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/2263.ts
+
+#EXTINF:-1 tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 2 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/2264.ts
+
+#EXTINF:-1 tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 3 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/34137.ts
+
+#EXTINF:-1 tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 4 HD Eventos
+http://latinapro.net:25461/lazaroperez/perez3/56289.ts
+
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png" group-title="Deportes",Arg: TNT Sports
+http://latinapro.net:25461/lazaroperez/perez3/2467.ts
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png" group-title="Deportes",Arg: TyC Sports HD
+http://latinapro.net:25461/lazaroperez/perez3/360.ts
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="http://latinapro.net:25461/images/853b73d3bf50b22aa64c9b99871f2d4c.jpg" group-title="Deportes",Arg: TyC Sports Internacional
+http://latinapro.net:25461/lazaroperez/perez3/4192.ts
+
+#EXTINF:-1 tvg-logo="http://latinapro.net:25461/images/eb8cb605e42f1ef8bc27551ba3467200.png" group-title="Deportes",Uru: VTV Plus
+http://latinapro.net:25461/lazaroperez/perez3/3896.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN HD
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a00h&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a09p&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",ESPN Premium HD
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a02z&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",TNT Sports HD
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a008&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",TyC Sports
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",Win Sports+ HD
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a01a&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",Win Sports
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 group-title="Deportes",Gol TV
+http://tecnotv.club/abr07/phpcode/lista1.php?c=a05e&token=tecnotokenplustv230516F&f=.m3u8
+
+#EXTINF:-1 tvg-id="CnArDeportes.ar" group-title="Deportes",CnAr Deportes
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes",F1 Latinoamerica
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: America TV HD
+http://latinapro.net:25461/lazaroperez/perez3/5540.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Telefe HD
+http://latinapro.net:25461/lazaroperez/perez3/1688.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: El Trece HD
+http://latinapro.net:25461/lazaroperez/perez3/1562.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: El Trece Internacional
+http://latinapro.net:25461/lazaroperez/perez3/13754.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Canal 26
+http://latinapro.net:25461/lazaroperez/perez3/5605.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: TN Todo Noticias
+http://latinapro.net:25461/lazaroperez/perez3/1686.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: La Nacion +
+http://latinapro.net:25461/lazaroperez/perez3/5604.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Telefe Internacional
+http://latinapro.net:25461/lazaroperez/perez3/13755.ts
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: America TV
+https://qaotic.com.ar/hls/america.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Telefe
+https://vod-edge.mango.telefonifica.com/live-arg/arg.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: El Trece
+https://vodgc.net/hls/eltrece.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: A24
+https://d1gij5c0p1swm.cloudfront.net/a24/smil:a24.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Cronica HD
+https://cdn.cronicalive.com.ar/vod/smil:cronica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: TV Publica
+https://rtvcstlc.dcs.redder.cl/TVPublicaArgentina/Live/playlist.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Telemax
+https://cdn.telemax.com.ar/live/telemax.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: 13 Max
+https://vodgc.net/hls/13max.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA",Arg: Argentinisima
+https://latinolive.net/hls/argentinisima.m3u8
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Canal 4 Monte Carlo HD
+http://latinapro.net:25461/lazaroperez/perez3/29359.ts
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Canal 10
+http://latinapro.net:25461/lazaroperez/perez3/52655.ts
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Canal 12 Teledoce HD
+http://latinapro.net:25461/lazaroperez/perez3/3894.ts
+
+#EXTINF:-1 group-title="URUGUAY",Uru: VTV Plus
+http://latinapro.net:25461/lazaroperez/perez3/3896.ts
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Canal 5 TNU
+http://radiodifusion.tnu.com.uy/hls/tnu_720.m3u8
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Canal 5 TNU Alt
+http://cdn3.tnu.com.uy/live/tvdigital.m3u8
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Teve Ciudad
+https://stream.iduruguay.com/hls/tevecity/index.m3u8
+
+#EXTINF:-1 group-title="URUGUAY",Uru: Subrayado TV
+https://stream.iduruguay.com/hls/subrayado/index.m3u8
+
+#EXTINF:-1 group-title="COLOMBIA",Col: Caracol TV HD
+http://latinapro.net:25461/lazaroperez/perez3/1561.ts
+
+#EXTINF:-1 group-title="COLOMBIA",Col: RCN TV HD
+http://latinapro.net:25461/lazaroperez/perez3/1563.ts
+
+#EXTINF:-1 group-title="COLOMBIA",Col: Canal 1
+http://latinapro.net:25461/lazaroperez/perez3/5609.ts
+
+#EXTINF:-1 group-title="COLOMBIA",Col: Citytv
+http://latinapro.net:25461/lazaroperez/perez3/5611.ts
+
+#EXTINF:-1 group-title="COLOMBIA",Col: Teleantioquia
+http://latinapro.net:25461/lazaroperez/perez3/5612.ts
+
+#EXTINF:-1 group-title="COLOMBIA",Col: Win Sports
+http://latinapro.net:25461/lazaroperez/perez3/1569.ts
+
+#EXTINF:-1 group-title="CHILE",Chi: Canal 13 Chile HD
+http://latinapro.net:25461/lazaroperez/perez3/1556.ts
+
+#EXTINF:-1 group-title="CHILE",Chi: TVN HD
+http://latinapro.net:25461/lazaroperez/perez3/1558.ts
+
+#EXTINF:-1 group-title="CHILE",Chi: Mega HD
+http://latinapro.net:25461/lazaroperez/perez3/1559.ts
+
+#EXTINF:-1 group-title="CHILE",Chi: Chilevision HD
+http://latinapro.net:25461/lazaroperez/perez3/1560.ts
+
+#EXTINF:-1 group-title="CHILE",Chi: La Red
+http://latinapro.net:25461/lazaroperez/perez3/5614.ts
+
+#EXTINF:-1 group-title="Premium",Fox Premium HD
+http://latinapro.net:25461/lazaroperez/perez3/3885.ts
+
+#EXTINF:-1 group-title="Premium",Fox Premium Series HD
+http://latinapro.net:25461/lazaroperez/perez3/3886.ts
+
+#EXTINF:-1 group-title="Premium",Fox Premium Action HD
+http://latinapro.net:25461/lazaroperez/perez3/3887.ts
+
+#EXTINF:-1 group-title="Premium",HBO HD
+http://latinapro.net:25461/lazaroperez/perez3/3888.ts
+
+#EXTINF:-1 group-title="Premium",HBO 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/3889.ts
+
+#EXTINF:-1 group-title="Premium",HBO Family HD
+http://latinapro.net:25461/lazaroperez/perez3/3890.ts
+
+#EXTINF:-1 group-title="Premium",HBO Mundi HD
+http://latinapro.net:25461/lazaroperez/perez3/3891.ts
+
+#EXTINF:-1 group-title="Premium",HBO Pop HD
+http://latinapro.net:25461/lazaroperez/perez3/3892.ts
+
+#EXTINF:-1 group-title="Premium",HBO Xtreme HD
+http://latinapro.net:25461/lazaroperez/perez3/3893.ts
+
+#EXTINF:-1 group-title="Premium",Cinemax HD
+http://latinapro.net:25461/lazaroperez/perez3/3902.ts
+
+#EXTINF:-1 group-title="Premium",Cinecanal HD
+http://latinapro.net:25461/lazaroperez/perez3/3903.ts
+
+#EXTINF:-1 group-title="Premium",Space HD
+http://latinapro.net:25461/lazaroperez/perez3/3904.ts
+
+#EXTINF:-1 group-title="Premium",Universal Channel HD
+http://latinapro.net:25461/lazaroperez/perez3/3905.ts
+
+#EXTINF:-1 group-title="Premium",Syfy HD
+http://latinapro.net:25461/lazaroperez/perez3/3906.ts
+
+#EXTINF:-1 group-title="Premium",Canal Sony HD
+http://latinapro.net:25461/lazaroperez/perez3/3907.ts
+
+#EXTINF:-1 group-title="Premium",Warner Channel HD
+http://latinapro.net:25461/lazaroperez/perez3/3908.ts
+
+#EXTINF:-1 group-title="Premium",AXN HD
+http://latinapro.net:25461/lazaroperez/perez3/3909.ts
+
+#EXTINF:-1 group-title="Premium",TNT HD
+http://latinapro.net:25461/lazaroperez/perez3/3910.ts
+
+#EXTINF:-1 group-title="Premium",TCM HD
+http://latinapro.net:25461/lazaroperez/perez3/3911.ts
+
+#EXTINF:-1 group-title="Premium",Comedy Central HD
+http://latinapro.net:25461/lazaroperez/perez3/3912.ts
+
+#EXTINF:-1 group-title="Premium",Paramount Network HD
+http://latinapro.net:25461/lazaroperez/perez3/3913.ts
+
+#EXTINF:-1 group-title="Premium",E! Entertainment HD
+http://latinapro.net:25461/lazaroperez/perez3/3914.ts
+
+#EXTINF:-1 group-title="Entretenimiento",Animal Planet HD
+http://latinapro.net:25461/lazaroperez/perez3/3916.ts
+
+#EXTINF:-1 group-title="Entretenimiento",Discovery Channel HD
+http://latinapro.net:25461/lazaroperez/perez3/3917.ts
+
+#EXTINF:-1 group-title="Entretenimiento",Discovery Turbo HD
+http://latinapro.net:25461/lazaroperez/perez3/3918.ts
+
+#EXTINF:-1 group-title="Entretenimiento",History Channel HD
+http://latinapro.net:25461/lazaroperez/perez3/3919.ts
+
+#EXTINF:-1 group-title="Entretenimiento",Nat Geo HD
+http://latinapro.net:25461/lazaroperez/perez3/3920.ts
+
+#EXTINF:-1 group-title="Entretenimiento",Nat Geo Wild HD
+http://latinapro.net:25461/lazaroperez/perez3/3921.ts
+
+#EXTINF:-1 group-title="Entretenimiento",TLC HD
+http://latinapro.net:25461/lazaroperez/perez3/3922.ts
+
+#EXTINF:-1 group-title="Entretenimiento",ID Investigation Discovery HD
+http://latinapro.net:25461/lazaroperez/perez3/3923.ts
+
+#EXTINF:-1 group-title="Musica",MTV HD
+http://latinapro.net:25461/lazaroperez/perez3/3926.ts
+
+#EXTINF:-1 group-title="Musica",VH1 HD
+http://latinapro.net:25461/lazaroperez/perez3/3927.ts
+
+#EXTINF:-1 group-title="Musica",Flow Music
+http://latinapro.net:25461/lazaroperez/perez3/3928.ts
+
+#EXTINF:-1 group-title="Noticias",CNN en Espanol HD
+http://latinapro.net:25461/lazaroperez/perez3/3929.ts
+
+#EXTINF:-1 group-title="Noticias",CNN Internacional HD
+http://latinapro.net:25461/lazaroperez/perez3/3930.ts
+
+#EXTINF:-1 group-title="Noticias",BBC World HD
+http://latinapro.net:25461/lazaroperez/perez3/3931.ts
+
+#EXTINF:-1 group-title="Noticias",DW Espanol HD
+http://latinapro.net:25461/lazaroperez/perez3/3932.ts
+
+#EXTINF:-1 group-title="Noticias",Euronews HD
+http://latinapro.net:25461/lazaroperez/perez3/3933.ts
+
+#EXTINF:-1 group-title="Infantil",Disney Channel HD
+http://latinapro.net:25461/lazaroperez/perez3/3934.ts
+
+#EXTINF:-1 group-title="Infantil",Disney Junior HD
+http://latinapro.net:25461/lazaroperez/perez3/3935.ts
+
+#EXTINF:-1 group-title="Infantil",Disney XD HD
+http://latinapro.net:25461/lazaroperez/perez3/3936.ts
+
+#EXTINF:-1 group-title="Infantil",Cartoon Network HD
+http://latinapro.net:25461/lazaroperez/perez3/3937.ts
+
+#EXTINF:-1 group-title="Infantil",Nickelodeon HD
+http://latinapro.net:25461/lazaroperez/perez3/3938.ts
+
+#EXTINF:-1 group-title="Infantil",Nick Jr HD
+http://latinapro.net:25461/lazaroperez/perez3/3939.ts
+
+#EXTINF:-1 group-title="Internacional",Fox Internacional HD
+http://latinapro.net:25461/lazaroperez/perez3/3940.ts
+
+#EXTINF:-1 group-title="Internacional",Star Channel HD
+http://latinapro.net:25461/lazaroperez/perez3/3941.ts
+
+#EXTINF:-1 group-title="Internacional",Star Action HD
+http://latinapro.net:25461/lazaroperez/perez3/3942.ts
+
+#EXTINF:-1 group-title="Internacional",NatGeo People HD
+http://latinapro.net:25461/lazaroperez/perez3/3943.ts
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/CanalCBA.png" group-title="Generales",Canal de la Ciudad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
